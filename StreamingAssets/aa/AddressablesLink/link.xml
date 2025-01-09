@@ -1,0 +1,77 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="com.ediiie.OSCI1C11ARI01.AnimalInfo" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.CameraPosition" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.GuideModeHighlighter" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.MeetAnimalExplorHandler" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.MeetAnimalGuidedHandler" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.MeetAnimalModuleController" preserve="all" />
+    <type fullname="com.ediiie.OSCI1C11ARI01.NameInfo" preserve="all" />
+    <type fullname="com.ediiie.PartData" preserve="all" />
+    <type fullname="DuckAnimControll" preserve="all" />
+    <type fullname="HabitatPanning" preserve="all" />
+    <type fullname="HabitatRotation" preserve="all" />
+    <type fullname="HabitatZoom" preserve="all" />
+    <type fullname="HighlightPlus.HighlightEffect" preserve="all" />
+    <type fullname="Panning" preserve="all" />
+    <type fullname="HighlightPlus.GlowPassData" preserve="nothing" serialized="true" />
+    <type fullname="com.ediiie.Data" preserve="nothing" serialized="true" />
+    <type fullname="com.ediiie.GuidedModeData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityStandardAssets.Water.Water" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[com.ediiie.Data]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Terrain" preserve="all" />
+    <type fullname="UnityEngine.TerrainData" preserve="all" />
+    <type fullname="UnityEngine.TerrainLayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.TerrainCollider" preserve="all" />
+  </assembly>
+</linker>
